@@ -96,6 +96,15 @@ if format_fail=='txt':
         movies_txt.write(str(i))
         movies_txt.write('\n')
     movies_txt.close()
+# sdhbdsdbshdsshdbshd
+# sd
+# sd
+# s
+# d
+# sds
+# d
+# s
+# d
 
     result_movies=open(full_way2, "w", encoding="utf-8")
     with open(full_way, "r", encoding="utf-8") as file:
